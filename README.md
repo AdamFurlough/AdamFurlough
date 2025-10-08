@@ -1,6 +1,6 @@
 # Hi, I'm Adam!
 
-[IT Proffesional, Cloud DevOps Engineer, Lifelong learner](https://www.linkedin.com/in/adam-furlough)
+[IT Proffesional, Cloud DevOps Engineer, and Lifelong learner](https://www.linkedin.com/in/adam-furlough)
 
 ## AWS Projects
 
@@ -9,11 +9,19 @@
 - [AWS Elastic Container Service (ECS)](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/ecs)
 - [Obsevability with AWS Distro for OpenTelemetry (ADOT) to ELK](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/observability-project)
 
+## Docker Compose Homelab
+
+- [Compose files and notes for docker containers I am testing in my homelab](https://github.com/AdamFurlough/docker)
+
+## Linux Quick Reference
+
+- [Quick reference notes for linux CLI](https://github.com/AdamFurlough/linux)
+
 ## DIY Custom Keyboard Firmware
 
-- [My keymaps for wired custom keyboards - using QMK (based in C)](https://github.com/AdamFurlough/keyboards/tree/main/qmk/corne) 
+- [Custom keymaps for my DIY wired custom keyboards - using QMK](https://github.com/AdamFurlough/keyboards/tree/main/qmk/corne) 
     - Learn more about [QMK, Open-source keyboard firmware for Atmel AVR and Arm USB families](https://docs.qmk.fm/)
-- [My keymaps for bluetooth/wireless custom keyboards - using ZMK](https://github.com/AdamFurlough/keyboards/tree/main/zmk) 
+- [Custom keymaps for my DIY bluetooth/wireless keyboards - using ZMK](https://github.com/AdamFurlough/keyboards/tree/main/zmk) 
     - Learn more about [ZMK, open source (MIT) keyboard firmware built on the Zephyr™ Project Real Time Operating System (RTOS).](https://zmk.dev/docs)
 
 ## Certs & Studies
