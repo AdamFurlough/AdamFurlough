@@ -6,6 +6,7 @@ I'm an IT Professional and Cloud DevOps Engineer by day, lifelong learner and te
 
 - [Handy AWS CLI Scripts for IAM Administration](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/aws-cli-bash-scripts)
 - [How to use CloudFormation nested stack for standardized resource deployment](https://github.com/AdamFurlough/cloud-engineering-projects/blob/main/cloudformation/NestedStackTemplates/IAMRole.yaml)
+- [Templates for Cloudwatch logs insights query syntax](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/cloudwatch-logs-insights)
 - [AWS Elastic Container Service (ECS)](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/ecs)
 - [Obsevability with AWS Distro for OpenTelemetry (ADOT) to ELK](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/observability-project)
 
