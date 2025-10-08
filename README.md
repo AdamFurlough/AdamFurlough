@@ -9,7 +9,9 @@
 
 ## Connect with me:
 
-![linkedin](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkedin.webp) [linkedin.com/in/adam-furlough](https://linkedin.com/in/adam-furlough)
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkedin.webp" alt="linkedin" width="100"/> 
+
+[linkedin.com/in/adam-furlough](https://linkedin.com/in/adam-furlough)
 
 <!--
 [youtube]: https://www.youtube.com/c/adam-furlough
