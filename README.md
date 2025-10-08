@@ -7,12 +7,11 @@
 
 ## 👨‍💻 [DIY Custom Keyboard Firmware](https://github.com/AdamFurlough/keyboards)
 
-## Connect with me:
+## 🔗 Connect with me:
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkedin.webp" alt="linkedin" width="100"/> 
+[<img align="left" alt="Connect with Adam Furlough on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" />][linkedin]
 
-[linkedin.com/in/adam-furlough](https://linkedin.com/in/adam-furlough)
-
+[linkedin]: https://linkedin.com/in/adam-furlough
 <!--
 [youtube]: https://www.youtube.com/c/adam-furlough
 -->
