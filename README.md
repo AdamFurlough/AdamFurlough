@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Adam!
+## [Cloud Engineer](https://www.linkedin.com/in/adam-furlough), 
+
+## ![AWS](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/aws-light.webp) AWS
+
+## #326CE5
+
+## 👨‍💻 [DIY Custom Keyboard Firmware](https://github.com/AdamFurlough/keyboards)
+
+## Connect with me:
+
+![linkedin](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/linkedin.webp) [linkedin.com/in/adam-furlough](https://linkedin.com/in/adam-furlough)
 
 <!--
-**AdamFurlough/AdamFurlough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[youtube]: https://www.youtube.com/c/adam-furlough
 -->
