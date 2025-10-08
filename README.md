@@ -1,6 +1,6 @@
 # Hi, I'm Adam!
 
-[IT Proffesional, Cloud DevOps Engineer, and Lifelong learner](https://www.linkedin.com/in/adam-furlough)
+I'm an IT Proffesional and Cloud DevOps Engineer by day, lifelong learner and enthusiatic nerd all the time!
 
 ## AWS Projects
 
