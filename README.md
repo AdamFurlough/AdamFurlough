@@ -1,7 +1,13 @@
-## Hi, I'm Adam!
+# Hi, I'm Adam!
+
 ## [IT Proffesional](https://www.linkedin.com/in/adam-furlough), [Cloud DevOps Engineer](https://github.com/AdamFurlough/cloud-engineering-projects), and [DIY Split Keyboard Enthusiast](https://github.com/AdamFurlough/keyboards)
 
-## [<img align="left" alt="AWS Projects" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" />] AWS
+## [<img align="left" alt="AWS Projects" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" />][] AWS Projects
+
+- [Handy AWS CLI Scripts for IAM Administration](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/aws-cli-bash-scripts)
+- [How to use CLoudFormation nested stack for standardized resource deployment](https://github.com/AdamFurlough/cloud-engineering-projects/blob/main/cloudformation/NestedStackTemplates/IAMRole.yaml)
+- [AWS Elastic Container Service (ECS)](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/ecs)
+- [Obsevability with AWS Distro for OpenTelemetry (ADOT) to ELK](https://github.com/AdamFurlough/cloud-engineering-projects/tree/main/observability-project)
 
 ## 👨‍💻 [DIY Custom Keyboard Firmware](https://github.com/AdamFurlough/keyboards)
 
