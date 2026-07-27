@@ -36,9 +36,11 @@ I'm a Cloud DevOps Engineer by day, lifelong learner and tech enthusiast all the
 
 ### 📝 Currently Studying for...
 
+- 🔳 [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
 - 🔳 [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/-certified-kubernetes-administrator-cka/)
 - 🔳 [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/-certified-solutions-architect-professional/)
 - 🔳 [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
+
 
 ## 🔗 Connect with me
 
