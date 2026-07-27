@@ -1,6 +1,6 @@
 # Hi, I'm Adam 👋
 
-I'm an IT Professional and Cloud DevOps Engineer by day, lifelong learner and tech enthusiast all the time!
+I'm a Cloud DevOps Engineer by day, lifelong learner and tech enthusiast all the time!
 
 ## AWS Projects
 
